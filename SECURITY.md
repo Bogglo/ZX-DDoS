@@ -11,4 +11,4 @@ The following versions of ZX-DDoS are currently being supported with security up
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within this project, please send an e-mail to Bogglo at AllBayejidBishwash@hotmail.com. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within this project, please send an e-mail to MrGoofy at mrgoofy@tutamail.com. All security vulnerabilities will be promptly addressed.
