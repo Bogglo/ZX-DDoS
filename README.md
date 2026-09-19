@@ -32,6 +32,14 @@ Repository: [https://github.com/MrGoofyDev/ZX-DDoS](https://github.com/MrGoofyDe
 **ZX-DDoS** is a Distributed Denial of Service (DDoS) tool, written in Python, to help understand the mechanics of network stress testing and security evaluation.  
 **Use only in controlled and legal environments.**
 
+---
+
+## Screenshot
+
+![Screenshot](https://raw.githubusercontent.com/MrGoofyDev/ZX-DDoS/refs/heads/main/File/Screenshot.png)
+
+
+---
 
 ## Main File
 
