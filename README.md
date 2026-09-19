@@ -6,7 +6,7 @@
 > This repository is strictly for educational, research, and network testing purposes only.  
 > **The author is not responsible for any misuse or illegal activities.**
 
-Repository: [https://github.com/Bogglo/ZX-DDoS](https://github.com/Bogglo/ZX-DDoS)
+Repository: [https://github.com/MrGoofyDev/ZX-DDoS](https://github.com/MrGoofyDev/ZX-DDoS)
 
 ---
 
@@ -36,7 +36,7 @@ Repository: [https://github.com/Bogglo/ZX-DDoS](https://github.com/Bogglo/ZX-DDo
 
 ## Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/Bogglo/ZX-DDoS/refs/heads/main/File/Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/MrGoofyDev/ZX-DDoS/refs/heads/main/File/Screenshot.png)
 
 
 ---
@@ -57,7 +57,7 @@ Repository: [https://github.com/Bogglo/ZX-DDoS](https://github.com/Bogglo/ZX-DDo
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/Bogglo/ZX-DDoS
+git clone https://github.com/MrGoofyDev/ZX-DDoS
 cd ZX-DDoS
 ```
 
@@ -78,7 +78,7 @@ pip install -r requirements.txt
 ```sh
 pkg update && pkg upgrade
 pkg install git python
-git clone https://github.com/Bogglo/ZX-DDoS
+git clone https://github.com/MrGoofyDev/ZX-DDoS
 cd ZX-DDoS
 pip install -r requirements.txt
 python3 start.py
@@ -89,7 +89,7 @@ python3 start.py
 ```sh
 sudo apt update && sudo apt upgrade
 sudo apt install git python3 python3-pip
-git clone https://github.com/Bogglo/ZX-DDoS
+git clone https://github.com/MrGoofyDev/ZX-DDoS
 cd ZX-DDoS
 pip3 install -r requirements.txt
 python3 start.py
@@ -100,7 +100,7 @@ python3 start.py
 1. Download & install [Python](https://www.python.org/downloads/).
 2. Open `cmd` or PowerShell and run:
     ```sh
-    git clone https://github.com/Bogglo/ZX-DDoS
+    git clone https://github.com/MrGoofydev/ZX-DDoS
     cd ZX-DDoS
     pip install -r requirements.txt
     python start.py
@@ -110,7 +110,7 @@ python3 start.py
 
 ```sh
 brew install git python3
-git clone https://github.com/Bogglo/ZX-DDoS
+git clone https://github.com/MrGoofydev/ZX-DDoS
 cd ZX-DDoS
 pip3 install -r requirements.txt
 python3 start.py
