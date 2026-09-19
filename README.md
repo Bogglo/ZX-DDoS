@@ -92,7 +92,7 @@ python3 start.py
 1. Download & install [Python](https://www.python.org/downloads/).
 2. Open `cmd` or PowerShell and run:
     ```sh
-    git clone https://github.com/MrGoofydev/ZX-DDoS
+    git clone https://github.com/MrGoofyDev/ZX-DDoS
     cd ZX-DDoS
     pip install -r requirements.txt
     python start.py
@@ -102,7 +102,7 @@ python3 start.py
 
 ```sh
 brew install git python3
-git clone https://github.com/MrGoofydev/ZX-DDoS
+git clone https://github.com/MrGoofyDev/ZX-DDoS
 cd ZX-DDoS
 pip3 install -r requirements.txt
 python3 start.py
